@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="description" content="{{site.description}}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+  <div id="page">
+    <header>
+      <img src="https://imageproxy.themaven.net//https%3A%2F%2Fwww.history.com%2F.image%2FMTY4MzI2MDQ1OTYxODIzNTA5%2Fqueen-elizabeth-ii-gettyimages-904669426.jpg">  
+    </header>
+    <nav>
+      {% assign pages = site.pages | where: "dir", "/" | sort: 'weight' %}
+      {% for node in pages %}
+	{% if page.url == node.url %}
+	  <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+	{% else %}
+	  <li><a href="{{node.url}}">{{node.title}}</a></li>
+	{% endif %}
+      {% endfor %}
+    </nav>
+    <div>
+      {{ content}}
+    </div>
+  </div>
+  </body>
+</html>
