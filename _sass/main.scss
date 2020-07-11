@@ -51,6 +51,9 @@ nav {
     border: 1px solid black;
     margin: 5px 25px;
     padding: 2px;
+    &.active {
+      font-weight: bold;
+    }
   }
   a {
     text-decoration: none;
@@ -72,13 +75,13 @@ nav {
       color: #000;
     }
   }
-  &:nth-child(odd) :nth-child(1)  {
-    margin-right: 10px
+  &:nth-child(odd) :nth-child(1) {
+    margin: 0 10px 0 0;
   }
-  &:nth-child(even) :nth-child(1)  {
+  &:nth-child(even) :nth-child(1) {
     order: 1;
   }
-  &:nth-child(even) :nth-child(2)  {
+  &:nth-child(even) :nth-child(2) {
     flex-grow: 1;
   }
 }
@@ -92,5 +95,17 @@ nav {
   }
   nav ul  {
     flex-direction: column
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .accommodation {
+    flex-direction: column;
+    &:nth-child(even) :nth-child(1) {
+      order: 0;
+    }
+    div:nth-child(1) {
+      margin: 0 auto !important;
+    }
   }
 }
