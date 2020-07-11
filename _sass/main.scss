@@ -1,20 +1,92 @@
-$backgroundColor: #ffffff;
-$textColor: #000000;
-$textFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-
 body {
-  background: $backgroundColor;
-  color: $textColor;
-  font-family: $textFont;
+  /* https://leaverou.github.io/css3patterns/ */
+  background-color:#ccc;
+  background-image:
+  radial-gradient(circle at 100% 150%, #ccc 24%, white 24%, white 28%, #ccc 28%, #ccc 36%, white 36%, white 40%, transparent 40%, transparent),
+  radial-gradient(circle at 0    150%, #ccc 24%, white 24%, white 28%, #ccc 28%, #ccc 36%, white 36%, white 40%, transparent 40%, transparent),
+  radial-gradient(circle at 50%  100%, white 10%, #ccc 10%, #ccc 23%, white 23%, white 30%, #ccc 30%, #ccc 43%, white 43%, white 50%, #ccc 50%, #ccc 63%, white 63%, white 71%, transparent 71%, transparent),
+  radial-gradient(circle at 100% 50%, white 5%, #ccc 5%, #ccc 15%, white 15%, white 20%, #ccc 20%, #ccc 29%, white 29%, white 34%, #ccc 34%, #ccc 44%, white 44%, white 49%, transparent 49%, transparent),
+  radial-gradient(circle at 0    50%, white 5%, #ccc 5%, #ccc 15%, white 15%, white 20%, #ccc 20%, #ccc 29%, white 29%, white 34%, #ccc 34%, #ccc 44%, white 44%, white 49%, transparent 49%, transparent);
+  background-size: 100px 50px;
+  color: #000;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-family: 'Lato', sans-serif;
 }
 
-header img {
-  height: 210px;
-  margin: 0 auto;
-  display: block;
+header {
+  margin-bottom: 25px;
+  img {
+    height: 210px;
+    margin: 0 auto;
+    display: block;
+  }
 }
 
 #page {
   width: 900px;
   margin: 0 auto;
+  background: #fff;
+  padding: 20px;
+  font-size: 1.05em;
+}
+
+nav {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 0px;
+  font-size: 1.05em;
+  ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+  }
+  ul li {
+    flex: auto;
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px 25px;
+    padding: 2px;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+}
+
+.accommodation {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  img {
+    width: 250px;
+  }
+  h2 {
+    margin: 0;
+    a {
+      text-decoration: none;
+      color: #000;
+    }
+  }
+  &:nth-child(odd) :nth-child(1)  {
+    margin-right: 10px
+  }
+  &:nth-child(even) :nth-child(1)  {
+    order: 1;
+  }
+  &:nth-child(even) :nth-child(2)  {
+    flex-grow: 1;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #page {
+    width: 100%;
+  }
+  nav {
+    padding: 5px
+  }
+  nav ul  {
+    flex-direction: column
+  }
 }

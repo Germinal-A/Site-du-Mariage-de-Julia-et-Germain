@@ -6,4 +6,5 @@ weight: 4
 
 ## {{page.title}}
 
-Start developing your Jekyll website.
+
+hello@juliaetgermain.fr

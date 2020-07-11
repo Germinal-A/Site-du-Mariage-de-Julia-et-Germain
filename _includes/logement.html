@@ -1,0 +1,12 @@
+<div class="accommodation">
+  <div>
+    <a href="{{include.link}}"><img src="{{ include.image }}"></a>
+  </div>
+  <div>
+    <h2><a href="{{include.link}}">{{ include.title }}</a></h2>
+    {{ include.description | markdownify }}
+    Nombre de chambres : {{ include.nb_rooms}}
+    <br/>
+    Prix : {{ include.price }}€
+  </div>
+</div>
