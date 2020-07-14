@@ -10,21 +10,10 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
 
 {% 
   include logement.html 
-  link="https://www.5lassere.com" 
-  image="https://nsa40.casimages.com/img/2020/07/14/200714033141473496.jpg" 
-  title="5 Lasserre" 
-  description="Situé à moins de 3km, 5 suites luxueuses tenues par un couple italien." 
-  nb_rooms=5
-%}
-
-
-{% 
-  include logement.html 
   link="https://www.domainelamartinette.com/" 
   image="https://nsa40.casimages.com/img/2020/07/14/200714033730951994.jpg" 
   title="Domaine la Martinette" 
-  description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes." 
-  nb_rooms=4
+  description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes."
 %}
 
 {% 
@@ -32,6 +21,21 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
   link="https://www.airbnb.fr/rooms/2395821?source_impression_id=p3_1594733302_oB5WA5DBFurZgCXT&guests=1&adults=1" 
   image="https://nsa40.casimages.com/img/2020/07/14/200714034411863243.jpg" 
   title="Château de la Petite Martinette" 
-  description="Situé à moins d'1km, 5 chambres." 
-  nb_rooms=5
+  description="Situé à moins d'1km, 5 chambres."
+%}
+
+{% 
+  include logement.html 
+  link="https://www.airbnb.fr/rooms/3711081?location=Moulon&source_impression_id=p3_1594733737_jwPLVuGyBUklhjjP&guests=1&adults=1" 
+  image="https://nsa40.casimages.com/img/2020/07/14/200714035323773068.jpg" 
+  title="Chez Marie Louise" 
+  description="Situé à moins de 2km, Maison sur Airbnb avec 3 chambres."
+%}
+
+{% 
+  include logement.html 
+  link="https://www.airbnb.fr/rooms/28447673?location=moulon&source_impression_id=p3_1594734069_0p8%2BLdq7%2ByfxBL38&guests=1&adults=1" 
+  image="https://nsa40.casimages.com/img/2020/07/14/200714035732552190.jpg" 
+  title="Chez Lauriane" 
+  description="Situé à moins de 2km, Maison Airbnb avec 2 chambres."
 %}
