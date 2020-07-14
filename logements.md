@@ -6,35 +6,32 @@ weight: 2
 
 ## {{page.title}}
 
-Vous ne voulez pas boire toute la nuit ? Dommage... voici des options de logements :
+Vous trouverez ici une liste non exhaustive de logements proches du Château recommandés par la propriétaire :
 
 {% 
   include logement.html 
-  link="https://www.jardin-boheme.com/roulottes/" 
-  image="https://www.18h39.fr/wp-content/uploads/2018/04/tiny-house-escampette-home-600x420.jpg" 
-  title="La roulotte" 
-  description="Certains disent que ça roule..." 
-  nb_rooms=2 
-  price=150 
+  link="https://www.5lassere.com" 
+  image="https://nsa40.casimages.com/img/2020/07/14/200714033141473496.jpg" 
+  title="5 Lasserre" 
+  description="Situé à moins de 3km, 5 suites luxueuses tenues par un couple italien." 
+  nb_rooms=5
 %}
 
 
 {% 
   include logement.html 
-  link="https://www.jardin-boheme.com/roulottes/" 
-  image="https://www.18h39.fr/wp-content/uploads/2018/04/tiny-house-escampette-home-600x420.jpg" 
-  title="La roulotte 2" 
-  description="Le retour !" 
-  nb_rooms=2 
-  price=150 
+  link="https://www.domainelamartinette.com/" 
+  image="https://nsa40.casimages.com/img/2020/07/14/200714033730951994.jpg" 
+  title="Domaine la Martinette" 
+  description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes." 
+  nb_rooms=4
 %}
 
 {% 
   include logement.html 
-  link="https://www.jardin-boheme.com/roulottes/" 
-  image="https://www.18h39.fr/wp-content/uploads/2018/04/tiny-house-escampette-home-600x420.jpg" 
-  title="La roulotte 3" 
-  description="🤠" 
-  nb_rooms=2 
-  price=150 
+  link="https://www.airbnb.fr/rooms/2395821?source_impression_id=p3_1594733302_oB5WA5DBFurZgCXT&guests=1&adults=1" 
+  image="https://nsa40.casimages.com/img/2020/07/14/200714034411863243.jpg" 
+  title="Château de la Petite Martinette" 
+  description="Situé à moins d'1km, 5 chambres." 
+  nb_rooms=5
 %}
