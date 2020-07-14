@@ -17,7 +17,7 @@
       <ul>
         {% assign nodes = site.pages | where: "dir", "/" | sort: 'weight' %}
         {% for node in nodes %}
-            <li {% if page.url == node.url %}class="active"{% endif %}><a href="{{node.url | replace: ".html", ""}}">{{node.title}}</a></li>
+            <a href="{{node.url | replace: ".html", ""}}"><li {% if page.url == node.url %}class="active"{% endif %}>{{node.title}}</li></a>
         {% endfor %}
       </ul>
     </nav>
