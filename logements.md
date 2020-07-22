@@ -11,7 +11,7 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
 {% 
   include logement.html 
   link="https://www.domainelamartinette.com/" 
-  image="https://nsa40.casimages.com/img/2020/07/14/200714033730951994.jpg" 
+  image="assets/Martinette.jpg" 
   title="Domaine la Martinette" 
   description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes."
 %}
