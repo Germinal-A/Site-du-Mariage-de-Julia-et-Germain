@@ -21,7 +21,7 @@
         {% endfor %}
       </ul>
     </nav>
-    <div id="content">
+    <div id="content" {% if page.center_everything %}class="center"{% endif %}>
       {{ content}}
     </div>
   </div>
