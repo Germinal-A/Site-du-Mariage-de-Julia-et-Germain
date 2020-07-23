@@ -13,7 +13,8 @@ weight: 3
 
 <font size="75pt">Samedi 6 février
 
-<img src="assets/Programme.jpg" width="100%">
+<img src="assets/Programme.jpg" width="100%" class="large">
+<img src="assets/ProgrmameTel.jpg" width="100%" class="small">
 
 <img src="assets/coeur.jpg">
 
