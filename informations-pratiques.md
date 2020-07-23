@@ -7,16 +7,18 @@ weight: 3
 ## {{page.title}}
 
 
-<font size="100pt"><center>Programme du Mariage</center></font>
+<center><font size="100pt">Programme du Mariage</font>
 
 <img src="assets/coeur.jpg">
 
-<font size="75pt"><center>Samedi 6 février</center>
+<font size="75pt">Samedi 6 février
 
-<img src="assets/Programme.jpg" width="90%">
+<img src="assets/Programme.jpg" width="100%">
 
 <img src="assets/coeur.jpg">
 
-<center>Dimanche 7 février</center>
+Dimanche 7 février
 
-<img src="assets/ProgrammeD.jpg" width="90%"></font>
+Pour prolonger les festivités, nous avons le plaisir de vous convier à un Brunch à partir de 11h30.
+
+</font></center>
