@@ -21,7 +21,7 @@ weight: 3
 
 ### Dimanche 7 février
 
-### Pour prolonger les festivités, nous avons le plaisir de vous convier à un Brunch à partir de 11h30.
+<img src="assets/Brunch.jpg" width="100%"><br/>
 
 <img src="assets/Coeur.jpg"><br/>
 
