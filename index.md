@@ -13,4 +13,4 @@ N'hésitez pas à revenir vers nous si vous avez d'autres questions.
 Nous avons hâte de partager ces moments avec vous,  
 
 <img src="/assets/Signature.jpg" width="30%" class="large">
-<img src="/assets/Signature.jpg" width="60%" class="small">
+<img src="/assets/Signature.jpg" width="70%" class="small">
