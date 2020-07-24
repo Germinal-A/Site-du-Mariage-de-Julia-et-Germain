@@ -12,4 +12,4 @@ Une plateforme d'échange de photos sera également mise en place lors du mariag
 N'hésitez pas à revenir vers nous si vous avez d'autres questions.  
 Nous avons hâte de partager ces moments avec vous,  
 
-<img src="/assets/Signature.jpg" width="10%">
+<img src="/assets/Signature.jpg" width="30%">
