@@ -16,4 +16,4 @@ weight: 1
 #### Nous avons hâte de partager ces moments avec vous,
 <br/>
 <img src="/assets/Signature.jpg" width="30%" class="large">
-<img src="/assets/Signature.jpg" width="70%" class="small">
+<img src="/assets/Signature.jpg" width="90%" class="small">
