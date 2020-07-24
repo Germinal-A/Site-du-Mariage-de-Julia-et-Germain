@@ -21,7 +21,7 @@ weight: 3
 
 ### Dimanche 7 février
 
-<img src="assets/Brunch.jpg" width="100%"><br/>
+<img src="assets/Brunch.jpg"><br/>
 
 <img src="assets/Coeur.jpg"><br/>
 
