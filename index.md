@@ -14,6 +14,5 @@ weight: 1
 #### Une plateforme d'échange de photos sera également mise en place lors du mariage.  
 #### N'hésitez pas à revenir vers nous si vous avez d'autres questions.  
 #### Nous avons hâte de partager ces moments avec vous,
-<br/>
 <img src="/assets/Signature.jpg" width="30%" class="large">
 <img src="/assets/Signature.jpg" width="90%" class="small">
