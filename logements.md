@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Logements"
-weight: 2
+weight: 3
 ---
 
 ## {{page.title}}
