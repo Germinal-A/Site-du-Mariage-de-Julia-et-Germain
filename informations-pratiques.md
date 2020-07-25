@@ -2,7 +2,7 @@
 layout: default
 center_everything: 1
 title: "Programme du Mariage"
-weight: 3
+weight: 4
 ---
 
 ## {{page.title}}
