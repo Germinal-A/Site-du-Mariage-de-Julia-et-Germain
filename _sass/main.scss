@@ -44,12 +44,14 @@ header {
     font-size: 1,5em;
   }
   a:link {
-    color: red;
+    color: black;
     font-weight: bold;
+    text-decoration: none;
   }
-  a:visited {
-    color: yellow;
+  a:hover {
+    color: black;
     font-weight: bold;
+    text-decoration: underline;
   }
 }
 
