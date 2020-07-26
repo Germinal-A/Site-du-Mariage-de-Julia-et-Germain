@@ -11,7 +11,6 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
 {% 
   include logement.html 
   link="https://www.domainelamartinette.com/" 
-  image="assets/Martinette.jpg" 
   title="Domaine la Martinette" 
   description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes."
 %}
@@ -19,7 +18,6 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
 {% 
   include logement.html 
   link="https://www.airbnb.fr/rooms/2395821?source_impression_id=p3_1594733302_oB5WA5DBFurZgCXT&guests=1&adults=1" 
-  image="assets/PetiteMartinette.jpg" 
   title="Château de la Petite Martinette" 
   description="Situé à moins d'1km, 5 chambres."
 %}
@@ -27,7 +25,6 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
 {% 
   include logement.html 
   link="https://www.airbnb.fr/rooms/3711081?location=Moulon&source_impression_id=p3_1594733737_jwPLVuGyBUklhjjP&guests=1&adults=1" 
-  image="assets/MarieLouise.jpg" 
   title="Chez Marie Louise" 
   description="Situé à moins de 2km, Maison sur Airbnb avec 3 chambres."
 %}
@@ -35,7 +32,6 @@ Vous trouverez ici une liste non exhaustive de logements proches du Château rec
 {% 
   include logement.html 
   link="https://www.airbnb.fr/rooms/28447673?location=moulon&source_impression_id=p3_1594734069_0p8%2BLdq7%2ByfxBL38&guests=1&adults=1" 
-  image="assets/Lauriane.jpg" 
   title="Chez Lauriane" 
   description="Situé à moins de 2km, Maison Airbnb avec 2 chambres."
 %}
