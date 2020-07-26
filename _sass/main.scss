@@ -43,6 +43,14 @@ header {
   h4 {
     font-size: 1,5em;
   }
+  a:link {
+    color: red;
+    font-weight: bold;
+  }
+  a:visited {
+    color: yellow;
+    font-weight: bold;
+  }
 }
 
 nav {
@@ -59,7 +67,7 @@ nav {
   ul a {
     flex: auto;
     text-align: center;
-    border: 5px solid black;
+    border: 1px solid black;
     margin: 5px 25px;
     padding: 2px;
     li.active {
@@ -69,10 +77,6 @@ nav {
   a {
     text-decoration: none;
     color: black;
-  }
-  a:link {
-    color: black;
-    font-weight: bold;
   }
 }
 
