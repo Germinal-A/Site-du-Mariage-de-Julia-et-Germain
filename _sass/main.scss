@@ -116,6 +116,10 @@ img.small {
   text-align: center;
 }
 
+.left {
+  float: left;
+}
+
 @media screen and (max-width: 1280px) {
   #page {
     width: 100%;
