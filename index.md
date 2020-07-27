@@ -6,7 +6,7 @@ weight: 1
 
 ## Bienvenue sur le site de notre mariage !
 
-<img src="assets/Couple.jpg" height="600" width=auto class="large left">
+<img src="assets/Couple.jpg" height="600" width="auto" class="large left">
 <img src="assets/Couple.jpg" width="90%" class="small center">
 <br/>
 #### Nous rassemblons ici toutes les informations utiles pour le jour J.  
