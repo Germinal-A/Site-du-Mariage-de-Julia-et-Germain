@@ -8,12 +8,8 @@ weight: 3
 
 Vous trouverez ici une liste non exhaustive de logements proches du Château recommandés par la propriétaire :
 
-{% 
-  include logement.html 
-  link="https://www.domainelamartinette.com/" 
-  title="Domaine la Martinette" 
-  description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes."
-%}
+### <a href="https://www.domainelamartinette.com/">Domaine de la Martinette</a><br/>Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes.
+
 
 {% 
   include logement.html 
