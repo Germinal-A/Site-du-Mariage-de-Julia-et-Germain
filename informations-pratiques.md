@@ -5,8 +5,6 @@ title: "Informations pratiques"
 weight: 4
 ---
 
-## {{page.title}}
-
 ### Programme du mariage
 
 <img src="assets/Coeur.jpg">
