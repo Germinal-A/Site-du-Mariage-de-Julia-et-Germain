@@ -11,14 +11,14 @@ weight: 4
 
 ### Samedi 6 février
 
-<img src="assets/Programme.jpg" width="100%" class="large">
+<img src="assets/Programme.jpg" width="80%" class="large">
 <img src="assets/ProgrmameTel.jpg" width="100%" class="small">
 
 <img src="assets/Coeur.jpg"><br/>
 
 ### Dimanche 7 février
 
-<img src="assets/Brunch.jpg" width="100%" class="large">
+<img src="assets/Brunch.jpg" width="80%" class="large">
 <img src="assets/BrunchTel.jpg" width="100%" class="small"><br/>
 
 <img src="assets/Coeur.jpg"><br/>
