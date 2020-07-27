@@ -1,11 +1,13 @@
 ---
 layout: default
 center_everything: 1
-title: "Programme du Mariage"
+title: "Informations pratiques"
 weight: 4
 ---
 
 ## {{page.title}}
+
+### Programme du mariage
 
 <img src="assets/Coeur.jpg">
 
