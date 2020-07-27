@@ -6,8 +6,8 @@ weight: 1
 
 ## Bienvenue sur le site de notre mariage !
 
-<img src="assets/Couple.jpg" width="40%" class="large">
-<img src="assets/Couple.jpg" width="90%" class="small">
+<img src="assets/Couple.jpg" width="40%" class="large" class="left">
+<img src="assets/Couple.jpg" width="90%" class="small" class="center">
 <br/>
 #### Nous rassemblons ici toutes les informations utiles pour le jour J.  
 #### En naviguant sur le site, vous trouverez notamment des adresses de <a href="/logements">logements proches du Château</a>, ainsi que le <a href="/informations-pratiques">programme du week-end</a>, et le lien vers la <a href="https://www.1001listes.fr/notremariage/juliaetgermain">liste de mariage</a>.  
