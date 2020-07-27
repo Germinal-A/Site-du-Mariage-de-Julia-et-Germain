@@ -4,8 +4,6 @@ title: "Logements"
 weight: 3
 ---
 
-## {{page.title}}
-
 #### Voici une proposition de logements à proximité du Château, dont la propriétaire a des bons retours :
 
 ### <a href="https://www.domainelamartinette.com/">Domaine de la Martinette : </a><br/>
