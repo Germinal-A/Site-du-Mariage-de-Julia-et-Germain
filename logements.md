@@ -8,15 +8,13 @@ weight: 3
 
 Vous trouverez ici une liste non exhaustive de logements proches du Château recommandés par la propriétaire :
 
-### <a href="https://www.domainelamartinette.com/">Domaine de la Martinette</a><br/>Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes.
+#### <a href="https://www.domainelamartinette.com/">Domaine de la Martinette : </a><br/>Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes.
 
+#### <a href=""https://www.airbnb.fr/rooms/2395821?source_impression_id=p3_1594733302_oB5WA5DBFurZgCXT&guests=1&adults=1"">Château de la Petite Martinette : </a><br/>Situé à moins d'1km, 5 chambres.
 
-{% 
-  include logement.html 
-  link="https://www.airbnb.fr/rooms/2395821?source_impression_id=p3_1594733302_oB5WA5DBFurZgCXT&guests=1&adults=1" 
-  title="Château de la Petite Martinette" 
-  description="Situé à moins d'1km, 5 chambres."
-%}
+#### <a href="https://www.domainelamartinette.com/">Domaine de la Martinette</a><br/>Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes.
+
+#### <a href="https://www.domainelamartinette.com/">Domaine de la Martinette</a><br/>Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes.
 
 {% 
   include logement.html 
