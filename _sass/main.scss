@@ -32,6 +32,9 @@ header {
 
 #content {
   padding: 20px;
+  p {
+    font-weight: bold;
+  }
   h2 {
     font-size: 2.5em;
     text-align: center;
@@ -83,12 +86,27 @@ nav {
   }
 }
 
-.accommodation {
+footer {
+  background-color: #f7f7f7;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  p {
+    margin: 10px;
+  }
+}
+
+#wrap {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   margin-top: 30px;
-  img {
-    width: 250px;
+  .accommodation {
+    width: 50%;
+    p {
+      margin: 0;
+      text-indent: 20px;
+    }
   }
   h3 {
     margin: 0;
@@ -96,15 +114,6 @@ nav {
       text-decoration: none;
       color: #000;
     }
-  }
-  &:nth-child(odd) :nth-child(1) {
-    margin: 0 10px 0 0;
-  }
-  &:nth-child(even) :nth-child(1) {
-    order: 1;
-  }
-  &:nth-child(even) :nth-child(2) {
-    flex-grow: 1;
   }
 }
 
@@ -140,14 +149,9 @@ img.small {
   }
 }
 
-@media screen and (max-width: 750px) {
-  .accommodation {
-    flex-direction: column;
-    &:nth-child(even) :nth-child(1) {
-      order: 0;
-    }
-    div:nth-child(1) {
-      margin: 0 auto !important;
-    }
+@media screen and (max-width: 1000px) {
+  #wrap .accommodation {
+    width: 100%;
+    margin-bottom: 15px;
   }
 }

@@ -8,22 +8,25 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
-  <div id="page">
-    <header>
-      <img src="/assets/Banette.jpg" class="large" width="100%">
-      <img src="/assets/BanetteTel.jpg" class="small" width="100%">
-    </header>
-    <nav>
-      <ul>
-        {% assign nodes = site.pages | where: "dir", "/" | sort: 'weight' %}
-        {% for node in nodes %}
-            <a href="{{node.url | replace: ".html", ""}}"><li {% if page.url == node.url %}class="active"{% endif %}>{{node.title}}</li></a>
-        {% endfor %}
-      </ul>
-    </nav>
-    <div id="content" {% if page.center_everything %}class="center"{% endif %}>
-      {{ content}}
+    <div id="page">
+      <header>
+        <img src="/assets/Banette.jpg" class="large" width="100%">
+        <img src="/assets/BanetteTel.jpg" class="small" width="100%">
+      </header>
+      <nav>
+        <ul>
+          {% assign nodes = site.pages | where: "dir", "/" | sort: 'weight' %}
+          {% for node in nodes %}
+              <a href="{{node.url | replace: ".html", ""}}"><li {% if page.url == node.url %}class="active"{% endif %}>{{node.title}}</li></a>
+          {% endfor %}
+        </ul>
+      </nav>
+      <div id="content" {% if page.center_everything %}class="center"{% endif %}>
+        {{ content}}
+      </div>
     </div>
-  </div>
+    <footer>
+      <p>Crédits illustration à la petite souris</p>
+    </footer>
   </body>
 </html>

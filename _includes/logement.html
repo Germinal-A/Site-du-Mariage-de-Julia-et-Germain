@@ -1,9 +1,4 @@
 <div class="accommodation">
-  <div>
-    <a href="{{include.link}}"><img src="{{ include.image }}"></a>
-  </div>
-  <div>
-    <h3><a href="{{include.link}}">{{ include.title }}</a></h3>
-    {{ include.description | markdownify }}
-  </div>
+  <h3><a href="{{include.link}}">{{ include.title }}</a></h3>
+  {{ include.description | markdownify }}
 </div>
