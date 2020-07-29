@@ -39,7 +39,7 @@ header {
     font-size: 2.5em;
     line-height: 1.1em;
     text-align: center;
-    margin: 30px 0;
+    margin: 50px 0;
   }
   h3 {
     font-size: 2em;
@@ -107,13 +107,13 @@ footer {
   margin-top: 30px;
   .accommodation {
     width: 50%;
+    &:not(:first-child):not(:nth-child(2)) {
+      margin-top: 30px;
+    }
     p {
       margin: 0;
       text-indent: 20px;
     }
-  }
-  .accommodation:not(:first-child):not(:nth-child(2)) {
-    margin-top: 30px;
   }
   h3 {
     margin: 0;
