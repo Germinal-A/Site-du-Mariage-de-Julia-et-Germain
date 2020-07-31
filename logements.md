@@ -49,8 +49,13 @@ Voici une proposition de logements à proximité du Château, dont la propriéta
     title="La Maison de..." 
     description="Situé à 7km, jolies chambres d'hôtes."
   %}
-  
+  {% 
+    include logement.html 
+    link="https://www.kyriad.com/rooms?searchType=rooms&location=Saint-%C3%89milion%2C+Gironde%2C+France&arrival=2021-02-05&departure=2021-02-07&isLicensedSportsman=false&companyName=&specialCodeValue=&specialCodeType=&offerId=&resortCode=FRA22401&longitude=-0.15583&latitude=44.89278&rooms%5B0%5D%5Badult%5D=2&rooms%5B0%5D%5Bchild%5D=0" 
+    title="Hôtel Kyriad" 
+    description="A 13km."
+  %}
 </div>
 
-![](assets/Coeur.jpg){: .center}
+![](assets/Coeur.jpg){: .center width="4%"}
 Un taxi de 6 places sera mis gratuitement à votre disposition pour vous ramener à votre logement, entre minuit et 4h du matin, et dans un rayon de 15km autour du Château.
