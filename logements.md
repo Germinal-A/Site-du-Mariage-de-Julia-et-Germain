@@ -31,6 +31,25 @@ Voici une proposition de logements à proximité du Château, dont la propriéta
     title="Chez Lauriane" 
     description="Situé à moins de 2km, Maison Airbnb avec 2 chambres."
   %}
+  {% 
+    include logement.html 
+    link="https://www.larbrerouge.com/" 
+    title="L'arbre rouge" 
+    description="A 7km, chambre d'hôte de charme. A appeler"
+  %}
+  {% 
+    include logement.html 
+    link="https://all.accor.com/hotel/8510/index.fr.shtml" 
+    title="IBIS Saint Emilion" 
+    description="A 13km."
+  %}
+  {% 
+    include logement.html 
+    link="https://la-maison-de.com/" 
+    title="La Maison de..." 
+    description="Situé à 7km, jolies chambres d'hôtes."
+  %}
+  
 </div>
 
 ![](assets/Coeur.jpg){: .center}
