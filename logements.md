@@ -4,7 +4,7 @@ title: "Logements"
 weight: 3
 ---
 
-Voici une proposition de logements à proximité du Château, dont la propriétaire a des bons retours :
+Voici une proposition de logements à proximité du Château, à priori ouverts pendant l'hiver :
 
 <div id="wrap">
   {% 
@@ -35,7 +35,7 @@ Voici une proposition de logements à proximité du Château, dont la propriéta
     include logement.html 
     link="https://www.larbrerouge.com/" 
     title="L'arbre rouge" 
-    description="A 7km, chambre d'hôte de charme. A appeler"
+    description="A 7km, chambre d'hôte de charme."
   %}
   {% 
     include logement.html 
