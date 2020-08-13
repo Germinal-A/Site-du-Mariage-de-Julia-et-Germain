@@ -57,6 +57,5 @@ Voici une proposition de logements à proximité du Château, à priori ouverts 
   %}
 </div>
 
-![](assets/Coeur.jpg){: .large style="margin:0 auto;display:block" width="4%"}
-![](assets/Coeur.jpg){: .small style="margin:0 auto;display:block" width="15%"} <br/>
+
 Un taxi de 6 places sera mis gratuitement à votre disposition pour vous ramener à votre logement, entre minuit et 4h du matin, et dans un rayon de 15km autour du Château.
