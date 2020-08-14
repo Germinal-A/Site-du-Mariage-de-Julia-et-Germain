@@ -29,7 +29,7 @@ Voici une proposition de logements à proximité du Château, à priori ouverts 
     include logement.html 
     link="https://www.airbnb.fr/rooms/28447673?location=moulon&source_impression_id=p3_1594734069_0p8%2BLdq7%2ByfxBL38&guests=1&adults=1" 
     title="Chez Lauriane" 
-    description="Situé à moins de 2km, Maison Airbnb avec 2 chambres."
+    description="Situé à moins de 2km, Maison sur Airbnb avec 2 chambres."
   %}
   {% 
     include logement.html 
