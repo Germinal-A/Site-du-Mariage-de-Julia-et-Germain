@@ -28,7 +28,7 @@ weight: 4
 
 ### Le mariage aura lieu au [Château de Garde](https://chateaudegarde.com/), à Moulon.
 
-#### Qu'est-ce qu'une cérémonie laïque ? Elle représente pour nous le moment clé du Mariage, avec sa portée symbolique et romantique. C'est durant cette cérémonie que se fera l'échange des vœux et des alliances. Elle sera également l'occasion pour ceux qui le souhaitent de s'exprimer, avec un discours ou autre forme d'expression. Elle sera officiée par Jérôme, le frère de Julia.
+#### * Qu'est-ce qu'une cérémonie laïque ? Elle représente pour nous le moment clé du Mariage, avec sa portée symbolique et romantique. C'est durant cette cérémonie que se fera l'échange des vœux et des alliances. Elle sera également l'occasion pour ceux qui le souhaitent de s'exprimer, avec un discours ou autre forme d'expression. Elle sera officiée par Jérôme, le frère de Julia.
 
 #### Les signatures d'acte de mariage se feront le vendredi à la mairie d'Arès, sans cérémonie. N'hésitez pas à nous contacter si vous souhaitez y assister.
 
