@@ -58,4 +58,4 @@ Voici une proposition de logements à proximité du Château, à priori ouverts 
 </div>
 
 
-Un taxi de 6 places sera mis gratuitement à votre disposition pour vous ramener à votre logement, entre minuit et 4h du matin, et dans un rayon de 15km autour du Château.
+Un taxi de 6 places sera mis gratuitement à votre disposition pour vous ramener à votre logement, entre minuit et 4h du matin, et dans un rayon de 15km autour du Château. Des alcootest seront également disponibles, si besoin.
