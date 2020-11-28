@@ -6,7 +6,7 @@ weight: 1
 
 Bonjour à tous,
 
-C'est avec regrets que nous commencons à organiser le report de notre mariage, compte tenu de la situation sanitaire. Nous vous tiendrons informés avec un nouveau faire part de la date exacte, qui sera probablement à la même période : février 2022.
+Au vu des dernières informations sur les conditions sanitaires, nous maintenons finalement notre mariage pour Février 2021 pour le moment. Notre position, guidée par nos prestataires, est la suivante : tant que possible, et si les autorités nous y autorisent, nous maintenons le mariage. Bien sûr, si les conditions sanitaires se dégradent, nous serons dans l'obligation de décaler, et nous vous tiendrons informés de la nouvelle date.
 
 A bientôt,
 
