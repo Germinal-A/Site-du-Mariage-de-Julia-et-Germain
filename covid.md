@@ -10,6 +10,6 @@ Afin de protéger la santé de chacun, nous demandons à chaque personne invité
 
 Des masques chirurgicaux seront à disposition, ainsi que du gel hydroalcoolique, tout au long du week-end.
 
-Ce mariage nous tient plus que jamais à coœur, et nous espérons pouvoir le maintenir grâçe aux efforts de tous.
+Ce mariage nous tient plus que jamais à cœur, et nous espérons pouvoir le maintenir grâçe aux efforts de tous.
 
 [Nous sommes disponibles pour répondre à toutes vos questions.](/contact)
