@@ -6,9 +6,6 @@ weight: 1
 
 ## Bienvenue sur le site de notre mariage !
 
-![couple](assets/Xxx.jpg){: .large .left height="600"}
-![couple](assets/Xxx.jpg){: .small .center width="90%"}
-<br/>
 Bonjour à tous,
 
 Nous rassemblons ici toutes les informations utiles pour le jour J. Notre mariage est pour le moment maintenu.
