@@ -1,61 +1,15 @@
 ---
 layout: default
-title: "Logements"
+title: "Covid-19"
 weight: 3
 ---
 
-Voici une proposition de logements à proximité du Château, à priori ouverts pendant l'hiver :
+Après réflexion et discussion avec nos prestataires, nous maintenons le mariage pour février 2021, en adéquations avec les décisions gouvernementales. Bien sûr, si les rassemblements privés de moins de 100 personnes ne sont pas autorisés, nous repousserons le mariage à une date ultérieure. Nous sommes bien conscients des difficultés d'organisation que cela représente pour vous également, du fait du peu de lisibilité de la situation à venir. Nous nous engageons à vous tenir informés par e-mail dès que possible si le mariage devait être repoussé.
 
-<div id="wrap">
-  {% 
-    include logement.html 
-    link="https://www.domainelamartinette.com/" 
-    title="Domaine la Martinette" 
-    description="Situé à 1km, 2 chambres d'hôte et 1 gîte pour 4-5 personnes."
-  %}
-  {% 
-    include logement.html 
-    link="https://www.airbnb.fr/rooms/2395821?source_impression_id=p3_1594733302_oB5WA5DBFurZgCXT&guests=1&adults=1" 
-    title="Château de la Petite Martinette" 
-    description="Situé à moins d'1km, 5 chambres."
-  %}
-  {% 
-    include logement.html 
-    link="https://www.airbnb.fr/rooms/3711081?location=Moulon&source_impression_id=p3_1594733737_jwPLVuGyBUklhjjP&guests=1&adults=1" 
-    title="Chez Marie Louise" 
-    description="Situé à moins de 2km, Maison sur Airbnb avec 3 chambres."
-  %}
-  {% 
-    include logement.html 
-    link="https://www.airbnb.fr/rooms/28447673?location=moulon&source_impression_id=p3_1594734069_0p8%2BLdq7%2ByfxBL38&guests=1&adults=1" 
-    title="Chez Lauriane" 
-    description="Situé à moins de 2km, Maison sur Airbnb avec 2 chambres."
-  %}
-  {% 
-    include logement.html 
-    link="https://www.larbrerouge.com/" 
-    title="L'arbre rouge" 
-    description="A 7km, chambre d'hôte de charme."
-  %}
-  {% 
-    include logement.html 
-    link="https://all.accor.com/hotel/8510/index.fr.shtml" 
-    title="IBIS Saint Emilion" 
-    description="A 13km."
-  %}
-  {% 
-    include logement.html 
-    link="https://la-maison-de.com/" 
-    title="La Maison de..." 
-    description="Situé à 7km, jolies chambres d'hôtes."
-  %}
-  {% 
-    include logement.html 
-    link="https://www.kyriad.com/rooms?searchType=rooms&location=Saint-%C3%89milion%2C+Gironde%2C+France&arrival=2021-02-05&departure=2021-02-07&isLicensedSportsman=false&companyName=&specialCodeValue=&specialCodeType=&offerId=&resortCode=FRA22401&longitude=-0.15583&latitude=44.89278&rooms%5B0%5D%5Badult%5D=2&rooms%5B0%5D%5Bchild%5D=0" 
-    title="Hôtel Kyriad" 
-    description="A 13km."
-  %}
-</div>
+Afin de protéger la santé de chacun, nous demandons à chaque personne invitée de réaliser un test PCR ou un test rapide quelques jours avant le mariage. N'hésitez pas à nous contacter si vous avez besoin d'une ordonnance.
 
+Des masques chirurgicaux seront à disposition, ainsi que du gel hydroalcoolique, tout au long du week-end.
 
-Un taxi de 6 places sera mis gratuitement à votre disposition pour vous ramener à votre logement, entre minuit et 4h du matin, et dans un rayon de 15km autour du Château. Des alcootest seront également disponibles, si besoin.
+Ce mariage nous tient particulièrement à coeur après ces semaines difficiles, et nous espérons pouvoir le maintenir grâçe aux efforts de tous.
+
+Nous sommes disponibles pour répondre à toutes vos questions.
