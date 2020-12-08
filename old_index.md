@@ -6,12 +6,16 @@ weight: 1
 
 ## Bienvenue sur le site de notre mariage !
 
-![couple](assets/Couple.jpg){: .large .left height="600"}
-![couple](assets/Couple.jpg){: .small .center width="90%"}
+![couple](assets/Xxx.jpg){: .large .left height="600"}
+![couple](assets/Xxx.jpg){: .small .center width="90%"}
 <br/>
-Nous rassemblons ici toutes les informations utiles pour le jour J.
+Bonjour à tous,
 
-En naviguant sur le site, vous trouverez notamment des adresses de [logements proches du Château](/logements), ainsi que le [programme du week-end](/informations-pratiques), et le lien vers la [liste de mariage](https://www.1001listes.fr/notremariage/juliaetgermain).
+Nous rassemblons ici toutes les informations utiles pour le jour J. Notre mariage est pour le moment maintenu.
+
+En naviguant sur le site, vous trouverez notamment le [programme du week-end](/informations-pratiques), ainsi et le lien vers la [liste de mariage](https://www.1001listes.fr/notremariage/juliaetgermain).
+
+Nous avons également dédié une page "Covid-19" que nous mettrons à jour en temps réel, suivant les différentes informations sur les conditions sanitaires.
 
 Une plateforme d'échange de photos sera également mise en place lors du mariage.
 
