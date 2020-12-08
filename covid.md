@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "covid"
+title: "Covid-19"
 weight: 3
 ---
 
