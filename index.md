@@ -6,7 +6,7 @@ weight: 1
 
 Bonjour à tous,
 
-Au vu de la situation sanitaire qui recommence à se dégrader en cette fin d'année, la perspective d'un mariage début Février nous parrait maintenant illusoire. Après discussion avec nos prestataires, nous décidons finalement un report, à priori en fin d'année 2021. Nous communiquerons la nouvelle date exacte dès que celle-ci sera fixée.
+Au vu de la situation sanitaire qui se dégrade à nouveau en cette fin d'année, la perspective d'un mariage début Février nous parrait maintenant illusoire. Après discussion avec nos prestataires, nous décidons finalement d'un report, à priori en fin d'année 2021. Nous communiquerons la nouvelle date exacte dès que celle-ci sera fixée.
 
 Passez de bonne fêtes,
 
