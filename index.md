@@ -4,9 +4,7 @@ title: "Accueil"
 weight: 1
 ---
 
-## Bienvenue sur le site de notre mariage !
-
-Bonjour à tous,
+### Bonjour à tous,
 
 Nous rassemblons ici toutes les informations utiles pour le jour J.
 
