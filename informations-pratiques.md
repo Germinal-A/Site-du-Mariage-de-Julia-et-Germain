@@ -29,6 +29,11 @@ weight: 4
 
 #### * Qu'est-ce qu'une cérémonie laïque ? Elle représente pour nous le moment clé du Mariage, avec sa portée symbolique et romantique. C'est durant cette cérémonie que se fera l'échange des vœux et des alliances. Elle sera également l'occasion pour ceux qui le souhaitent de s'exprimer, avec un discours ou autre forme d'expression. Elle sera officiée par Jérôme, le frère de Julia.
 
+![](assets/Coeur.jpg){: .large width="4%"} 
+![](assets/Coeur.jpg){: .small width="15%"} 
+
+#### Après réflexion, et pour des raisons que vous comprendrez certainement, nous ne souhaitons ni enfants ni bébés au mariage. Merci de votre soutien.
+
 #### Les signatures d'acte de mariage ont eu lieu le 5 février à la mairie d'Arès, en comité très restreint du fait de l'épidémie de Covid-19.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4758.121377013103!2d-0.21830238666508295!3d44.83794374170417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd554532dc533345%3A0x6049a9547322ec03!2sCh%C3%A2teau%20de%20Garde!5e0!3m2!1sfr!2sfr!4v1595537776165!5m2!1sfr!2sfr" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" width="100%" height="400" frameborder="0"></iframe>
