@@ -8,11 +8,11 @@ weight: 3
 
 <form id="my-form" action="https://formspree.io/f/mnqllewr" method="POST">
   <label>Nom(s) et prénom(s):</label>
-  <input type="text" name="names" />
+  <input type="text" name="Noms" />
   <br/>
-  <input type="radio" id="coming" checked="true" name="answer" value="1">
+  <input type="radio" id="coming" checked="true" name="Venue" value="Oui">
   <label for="coming">Avec plaisir !</label><br>
-  <input type="radio" id="not-coming" name="answer" value="0">
+  <input type="radio" id="not-coming" name="Venue" value="Non">
   <label for="not-coming">Hélas, non…</label><br>  
   <button id="my-form-button">Envoyer</button>
   <p id="my-form-status"></p>
