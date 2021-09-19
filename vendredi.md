@@ -1,9 +1,3 @@
----
-layout: default
-center_everything: 1
-
----
-
 ### Vendredi, bienvenue
 
 ![](assets/Coeur.jpg){: .large width="4%"} 
