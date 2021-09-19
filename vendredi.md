@@ -1,6 +1,7 @@
 ---
 layout: default
 center_everything: 1
+
 ---
 
 ### Vendredi, bienvenue
