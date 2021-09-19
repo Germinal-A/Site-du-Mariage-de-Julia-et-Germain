@@ -1,3 +1,10 @@
+---
+layout: default
+center_everything: 1
+title: " "
+weight: 0
+---
+
 ### Organisation pour le vendredi 10 décembre, veille du mariage
 
 ![](assets/Coeur.jpg){: .large width="4%"} 
