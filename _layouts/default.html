@@ -26,7 +26,7 @@
       </header>
       <nav>
         <ul>
-          {% assign nodes = site.pages | where: "dir", "/" | sort: 'weight' %}
+          {% assign nodes = site.pages | where_exp: "node", "node.hidden != 1" | where: "dir", "/" | sort: 'weight' %}
           {% for node in nodes %}
               <a href="{{node.url | replace: ".html", ""}}"><li {% if page.url == node.url %}class="active"{% endif %}>{{node.title}}</li></a>
           {% endfor %}
