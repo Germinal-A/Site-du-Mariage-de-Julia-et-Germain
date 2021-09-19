@@ -1,4 +1,4 @@
-### Vendredi, bienvenue
+### Vendredi, bienvenue2
 
 ![](assets/Coeur.jpg){: .large width="4%"} 
 ![](assets/Coeur.jpg){: .small width="15%"} 
