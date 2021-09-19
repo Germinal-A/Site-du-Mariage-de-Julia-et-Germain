@@ -1,8 +1,6 @@
 ---
 layout: default
 center_everything: 1
-title: "Vendredi"
-weight: 0
 ---
 
 ### Vendredi, bienvenue
