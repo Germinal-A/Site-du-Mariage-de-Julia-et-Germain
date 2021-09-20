@@ -6,6 +6,8 @@ weight: 3
 
 ### Formulaire de réponse
 
+Merci de nous confirmer votre présence avant le 15 octobre, via le formulaire ci-dessous, ou par mail ou SMS (contact).
+
 <form id="my-form" action="https://formspree.io/f/mnqllewr" method="POST">
   <label>Nom(s) et prénom(s):</label>
   <input type="text" name="Noms" />
@@ -18,8 +20,6 @@ weight: 3
   <p id="my-form-status"></p>
 </form>
 
-
-Réponse souhaitée avant le 15 octobre svp.
 
 
 <style>
