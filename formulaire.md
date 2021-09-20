@@ -6,7 +6,7 @@ weight: 3
 
 ### Formulaire de réponse
 
-Merci de nous confirmer votre présence avant le 15 octobre, via le formulaire ci-dessous, ou par mail ou SMS (contact).
+Merci de nous confirmer votre présence avant le 15 octobre, via le formulaire ci-dessous, ou par mail ou SMS [(contact)](/contact).
 
 <form id="my-form" action="https://formspree.io/f/mnqllewr" method="POST">
   <label>Nom(s) et prénom(s):</label>
