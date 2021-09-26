@@ -12,7 +12,7 @@ hidden: 1
 
 Les invités hébergés au Château peuvent arriver avec nous à partir du vendredi soir vers 17h. Vous pouvez bien entendu arriver dans la soirée, ou le samedi quand vous voulez, en fonction de vos disponibilités.
 
-Nous partagerons vendredi soir une soirée informelle en petit comité, pour préparer les festivités.
+Nous partagerons vendredi soir une soirée en petit comité, pour préparer les festivités. Dress code : soirée blanche (le haut, ou le bas, ou les deux).
 
 Nous devons quitter les lieux le dimanche vers 18h (donc possibilité de sieste sur place Valentin !).
 
