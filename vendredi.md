@@ -14,7 +14,7 @@ Les invités hébergés au Château peuvent arriver avec nous à partir du vendr
 
 Nous partagerons vendredi soir une soirée en petit comité, pour préparer les festivités.
 
-# Dress code : soirée blanche (le haut, ou le bas, ou les deux).
+Dress code : soirée blanche (le haut, ou le bas, ou les deux).
 
 Nous devons quitter les lieux le dimanche vers 18h (donc possibilité de sieste sur place Valentin !).
 
