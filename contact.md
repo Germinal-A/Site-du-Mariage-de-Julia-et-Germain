@@ -10,6 +10,6 @@ weight: 5
 
 <u>Adresse postale</u> :<br/>24 impasse des coulemelles, 33740 Arès
 
-<u>Jérôme (officier de cérémonie)</u> :<br/>[jerome.beaufrere@gmail.com](mailto:jerome.beaufrere@gmail.com) ou [06.63.31.58.83](tel:+33663315983) 
+<u>Jérôme (officiant de cérémonie)</u> :<br/>[jerome.beaufrere@gmail.com](mailto:jerome.beaufrere@gmail.com) ou [06.63.31.58.83](tel:+33663315983) 
 
 <u>Sylvie (wedding planner)</u> :<br/>[06.48.29.70.26](tel:+33648297026) 
