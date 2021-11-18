@@ -12,6 +12,8 @@ En naviguant sur le site, vous trouverez notamment le [programme du week-end](/i
 
 Une plateforme d'échange de photos sera également mise en place lors du mariage.
 
+Un pass sanitaire valide est obligatoire pour accéder au Château. Nous demandons donc à chacun de prendre ses dispositions.
+
 N'hésitez pas à [revenir vers nous](/contact) si vous avez d'autres questions.
 
 Nous avons hâte de partager ces moments avec vous,
