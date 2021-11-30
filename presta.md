@@ -1,8 +1,8 @@
 ---
-layout: default
-center_everything: 0
-title: "Prestataires"
-weight: 3
+//layout: default
+//center_everything: 0
+//title: "Prestataires"
+//weight: 3
 ---
 
 <u>Organisatrice</u> : Sylvie, de [Sparkly Agency](https://sparkly-agency.com/)
