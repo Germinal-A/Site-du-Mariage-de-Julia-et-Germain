@@ -18,3 +18,5 @@ weight: 4
 <u>Coiffure et maquillage</u> : [Cyrielle Delas](https://www.cyrielledelas.com/)
 
 <u>Photographie</u> : [Ghania Iratni](https://ghaniairatni.com/)
+
+<u>Officiant de cérémonie</u> : [Jérôme](mailto:jerome.beaufrere@gmail.com)
