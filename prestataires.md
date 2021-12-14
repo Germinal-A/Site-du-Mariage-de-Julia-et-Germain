@@ -5,7 +5,7 @@ title: "Infos prestataires"
 weight: 4
 ---
 
-### Voici la liste des différents prestataires qui nous ont accompagné pour ce merveilleux week-end :
+### Voici la liste des différents prestataires qui nous ont accompagnés pour ce merveilleux week-end :
 
 [<u>Organisatrice</u> : Sylvie, de Sparkly Agency](https://sparkly-agency.com/)
 
