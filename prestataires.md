@@ -2,7 +2,7 @@
 layout: default
 center_everything: 1
 title: "Infos prestataires"
-weight: 4
+weight: 3
 ---
 
 ### Voici la liste des différents prestataires qui nous ont accompagnés pour ce merveilleux week-end :
