@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact"
-weight: 5
+weight: 4
 ---
 
 <u>Mail</u> :<br/>[juliaetgermain@hotmail.com](mailto:juliaetgermain@hotmail.com) 
