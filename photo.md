@@ -2,7 +2,7 @@
 layout: default
 center_everything: 0
 title: "Partage photo"
-weight: 3
+weight: 2
 ---
 
 ### N'hésitez pas à partager vos photo, en cliquant sur ce lien :
