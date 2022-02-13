@@ -1,7 +1,7 @@
 ---
 layout: default
 center_everything: 0
-title: "Partage photo"
+title: "Photos"
 weight: 2
 ---
 
